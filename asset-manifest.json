@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//August2022/static/css/main.b0f0a806.css",
+    "main.js": "//August2022/static/js/main.fe7ead7e.js",
+    "static/js/787.2e4a302d.chunk.js": "//August2022/static/js/787.2e4a302d.chunk.js",
+    "index.html": "//August2022/index.html",
+    "main.b0f0a806.css.map": "//August2022/static/css/main.b0f0a806.css.map",
+    "main.fe7ead7e.js.map": "//August2022/static/js/main.fe7ead7e.js.map",
+    "787.2e4a302d.chunk.js.map": "//August2022/static/js/787.2e4a302d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0f0a806.css",
+    "static/js/main.fe7ead7e.js"
+  ]
+}
